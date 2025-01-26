@@ -1,3 +1,5 @@
+https://github.com/Mileticiv/X24C44-RAM-EEPROM/
+https://github.com/arduino/library-registry#adding-a-library-to-library-manager
 https://github.com/roncoa/SimRacingController
 https://github.com/KiselevIvan/kidLibrary
 https://github.com/dmachinewhisperer/micro-prompts-ino
